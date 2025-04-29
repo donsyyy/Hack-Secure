@@ -1,7 +1,0 @@
-
-passwd = 
-
-
-
-
-print(5)
